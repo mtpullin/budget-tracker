@@ -3,11 +3,16 @@ const VERSION = 'version_01';
 const CACHE_NAME = App_PREFIX + VERSION;
 
 const FILES_TO_CACHE = [
+    "/",
     "./public/index.html",
     "./public/css/style.css",
     "./public/js/idb.js",
     "./public/js/index.js",
-    "./models/transaction.js"
+    "./models/transaction.js",
+    "./"
+
+
+
 ];
 
 self.addEventListener('fetch', function(e){
