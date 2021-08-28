@@ -6,7 +6,7 @@
   ### [Questions](#questions)
 
   ## Description
-  budget tracker with graph showing increases and decreases of funds 
+  budget tracker with graph showing increases and decreases of funds as well as having offline functionality.
    
   ## License
   MIT 
