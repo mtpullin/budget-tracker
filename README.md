@@ -12,6 +12,8 @@
   MIT 
   ![badge](https://img.shields.io/badge/license-MIT-red)
   
+  link to deployed application: https://rocky-thicket-24089.herokuapp.com
+  
   the following images show submitting information when connected to the internet
   as well as with no connection and the adjustments being saved when a connection is reestablished.
   
